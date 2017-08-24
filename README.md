@@ -21,7 +21,7 @@ The class uses the Command Line Interface. Open up a terminal/cmd and navigate t
 To get familiar with the available methods enter the following in the terminal/cmd after navigating to the project folder.
 
 ```
-php index.php migrate info
+php index.php migrate help
 ```
 and you should have a help section that explains everything quite briefly on how everything works.
 
