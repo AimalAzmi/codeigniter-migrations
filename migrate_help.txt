@@ -36,3 +36,7 @@ rollback($version = 0) : Migrates to the '$version' version.
 reset($rollback = TRUE) : Deletes all migration files, Resets the migrations table and calls $this::rollback(0) if $rollback is set to TRUE.
 
 last() : Rollbacks the migrations one step back.
+
+info() : A table showing migrations information.
+
+help() : Displays a help section.
