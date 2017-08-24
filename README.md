@@ -4,7 +4,7 @@ Migrate Class to handle migrations within CodeIgniter. Using the Command Line In
 
 ## Getting Started
 
-The system requires just the [Migrate.php](#) to run and [migrate_help.txt](#) to display a help section. Get a copy of both.
+The system requires just the [Migrate.php](https://github.com/AimalAzmi/codeigniter-migrations/blob/master/Migrate.php) to run and [migrate_help.txt](https://github.com/AimalAzmi/codeigniter-migrations/blob/master/migrate_help.txt) to display a help section. Get a copy of both.
 
 Place both the files in your codeigniter_project/application/controllers folder and you're good to go.
 
