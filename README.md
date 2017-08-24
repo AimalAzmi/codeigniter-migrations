@@ -33,6 +33,10 @@ and you should have a help section that explains everything quite briefly on how
 
 * **Muhammad Aimal** - [Aimal Azmi](https://github.com/AimalAzmi)
 
+## Code Of Conduct
+
+This project follows the Contributor Covenant Code of Conduct - see [CODE_OF_CONDUCT](https://github.com/AimalAzmi/codeigniter-migrations/blob/master/CODE_OF_CONDUCT.md)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AimalAzmi/codeigniter-migrations/blob/master/LICENSE) file for details
